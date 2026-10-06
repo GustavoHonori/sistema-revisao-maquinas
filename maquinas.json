@@ -1,1 +1,17 @@
-
+[
+    {
+        "cliente": "João",
+        "maquina": "Escavadeira EC480DL",
+        "horas_atuais": 960
+    },
+    {
+        "cliente": "Maria",
+        "maquina": "Retroescavadeira X",
+        "horas_atuais": 1430
+    },
+    {
+        "cliente": "Pedro",
+        "maquina": "Trator Y",
+        "horas_atuais": 1980
+    }
+]
